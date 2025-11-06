@@ -26,8 +26,8 @@ body {
   padding: 2rem;
 }
 
-h2{
-    margin: 0;
+h2 {
+  margin: 0;
 }
 
 ul {
@@ -35,9 +35,9 @@ ul {
   padding: 0;
 }
 
-ul li{
-    margin:1rem 0;
-    font-size: 1.2rem;
+ul li {
+  margin: 1rem 0;
+  font-size: 1.2rem;
 }
 
 button {
@@ -51,6 +51,6 @@ button {
   cursor: pointer;
 }
 
-button:hover{
-    background: blue;
+button:hover {
+  background: blue;
 }
